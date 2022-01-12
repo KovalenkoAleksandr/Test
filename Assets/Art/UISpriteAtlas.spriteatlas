@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 89729fd9cb1f4d348b37f86779f3ef6e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9fa8c142de431c743902b35237d4efc1, type: 3}
+  - {fileID: 21300000, guid: bd804bd21643bca42947bb1671b7dd65, type: 3}
+  - {fileID: 21300000, guid: 4e27baf39e562ff4ab3f440d1eebb7c8, type: 3}
+  - {fileID: 21300000, guid: 317e7b05323fcfc4c9faae5bb63d9819, type: 3}
+  - {fileID: 21300000, guid: adc3a7252c3b1344eafc5c4abe2705a1, type: 3}
+  - {fileID: 21300000, guid: 0c8f64d67fdac7446857eaa7d9555a6d, type: 3}
+  - {fileID: 21300000, guid: 6d523b68546e9724cb071ae643dc9d21, type: 3}
+  - {fileID: 21300000, guid: 5d95f7cb6e0f0f647b016f60a53dfadd, type: 3}
+  - {fileID: 21300000, guid: 60d91b2cd2244684588f9054ecaaf6f2, type: 3}
+  - {fileID: 21300000, guid: 33d9ed0d9e472de45bb2683fbf42123e, type: 3}
+  - {fileID: 21300000, guid: def893ed035426d4087fd114a3492a5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - star
+  - button_green
+  - progress_bar
+  - users_icon
+  - chests_area
+  - offer_icon
+  - booble_butt
+  - events_icon
+  - store_icon
+  - button_blue
+  - progress_bg
+  m_RenderDataMap: {}
+  m_Tag: UISpriteAtlas
+  m_IsVariant: 0
